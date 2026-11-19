@@ -1290,6 +1290,11 @@ yanked = 2026-05-10T23:27:39.000Z
         hash = "aeb78d29291a2b5fd53cb55950f8f5065b4978c25fb1d77f627d695ab9adf21e"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.10/6.10.2/submodules/qtbase-everywhere-src-6.10.2.tar.xz"
+
+            ["6.10.2+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtbase"
+            provenance = "url-pattern"
+            version = "6.10.2"
         [["6.10.2+0".artifact_metadata.sources]]
         type = "directory"
         url = "https://github.com/JuliaPackaging/Yggdrasil/tree/f58aeced2c28bcd7242aa1be7e2f1061435e12ea/Q/Qt6Base/bundled"
@@ -1335,6 +1340,11 @@ yanked = 2026-05-10T23:27:39.000Z
         hash = "aeb78d29291a2b5fd53cb55950f8f5065b4978c25fb1d77f627d695ab9adf21e"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.10/6.10.2/submodules/qtbase-everywhere-src-6.10.2.tar.xz"
+
+            ["6.10.2+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtbase"
+            provenance = "url-pattern"
+            version = "6.10.2"
         [["6.10.2+1".artifact_metadata.sources]]
         type = "directory"
         url = "https://github.com/JuliaPackaging/Yggdrasil/tree/4b1fa01f603383b526975e4674d0c3571a07a2ba/Q/Qt6Base/bundled"
@@ -1383,6 +1393,11 @@ registered = 2026-05-10T23:27:39.000Z
         hash = "aeb78d29291a2b5fd53cb55950f8f5065b4978c25fb1d77f627d695ab9adf21e"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.10/6.10.2/submodules/qtbase-everywhere-src-6.10.2.tar.xz"
+
+            ["6.10.2+2".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtbase"
+            provenance = "url-pattern"
+            version = "6.10.2"
         [["6.10.2+2".artifact_metadata.sources]]
         type = "directory"
         url = "https://github.com/JuliaPackaging/Yggdrasil/tree/85fe487aefa25b43929991fe695cdf2f046a3f6d/Q/Qt6Base/bundled"

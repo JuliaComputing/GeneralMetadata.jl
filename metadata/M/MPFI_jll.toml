@@ -73,3 +73,8 @@ registered = 2026-09-28T09:50:33.000Z
         hash = "918adeef5e938baa677fa5fd8a7d72757e8335ea"
         type = "git"
         url = "https://gitlab.inria.fr/mpfi/mpfi.git"
+
+            ["1.5.7+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/mpfi"
+            provenance = "git-tag"
+            version = "1.5.5"

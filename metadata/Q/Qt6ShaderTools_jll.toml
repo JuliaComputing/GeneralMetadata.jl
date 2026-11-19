@@ -14,6 +14,11 @@ registered = 2022-05-04T08:27:13.000Z
         hash = "5498959b9d37c254bd126ab1320cf86aeb8a31b3ea7e51db666a8f9698afbd6c"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.3/6.3.0/submodules/qtshadertools-everywhere-src-6.3.0.tar.xz"
+
+            ["6.3.0+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.3.0"
         [["6.3.0+0".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -39,6 +44,11 @@ registered = 2022-05-04T11:14:41.000Z
         hash = "5498959b9d37c254bd126ab1320cf86aeb8a31b3ea7e51db666a8f9698afbd6c"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.3/6.3.0/submodules/qtshadertools-everywhere-src-6.3.0.tar.xz"
+
+            ["6.3.0+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.3.0"
         [["6.3.0+1".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -64,6 +74,11 @@ registered = 2023-01-05T17:30:15.000Z
         hash = "6bc1748326088c87f562fa3a68140e33fde162fd1333fbfecb775aeb66114504"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.4/6.4.1/submodules/qtshadertools-everywhere-src-6.4.1.tar.xz"
+
+            ["6.4.1+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.4.1"
         [["6.4.1+0".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -89,6 +104,11 @@ registered = 2023-01-27T11:25:58.000Z
         hash = "fa65bff84d4e9c2cb4cbf6fb098207e0e23d863dbe675eb277034a29c226a217"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.4/6.4.2/submodules/qtshadertools-everywhere-src-6.4.2.tar.xz"
+
+            ["6.4.2+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.4.2"
         [["6.4.2+0".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -114,6 +134,11 @@ registered = 2023-01-27T22:00:26.000Z
         hash = "fa65bff84d4e9c2cb4cbf6fb098207e0e23d863dbe675eb277034a29c226a217"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.4/6.4.2/submodules/qtshadertools-everywhere-src-6.4.2.tar.xz"
+
+            ["6.4.2+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.4.2"
         [["6.4.2+1".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -139,6 +164,11 @@ registered = 2023-07-11T14:40:31.000Z
         hash = "fa65bff84d4e9c2cb4cbf6fb098207e0e23d863dbe675eb277034a29c226a217"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.4/6.4.2/submodules/qtshadertools-everywhere-src-6.4.2.tar.xz"
+
+            ["6.4.2+2".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.4.2"
         [["6.4.2+2".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -164,6 +194,11 @@ registered = 2023-09-17T19:46:03.000Z
         hash = "ca3fb0db8576c59b9c38bb4b271cc6e10aebeb54e2121f429f4ee80671fc0a3d"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.5/6.5.2/submodules/qtshadertools-everywhere-src-6.5.2.tar.xz"
+
+            ["6.5.2+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.5.2"
         [["6.5.2+0".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -189,6 +224,11 @@ registered = 2023-09-17T20:30:42.000Z
         hash = "ca3fb0db8576c59b9c38bb4b271cc6e10aebeb54e2121f429f4ee80671fc0a3d"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.5/6.5.2/submodules/qtshadertools-everywhere-src-6.5.2.tar.xz"
+
+            ["6.5.2+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.5.2"
         [["6.5.2+1".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -214,6 +254,11 @@ registered = 2024-05-25T22:06:45.000Z
         hash = "e585e3a985b2e2bad8191a84489a04e69c3defc6022a8e746aad22a1f17910c2"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.7/6.7.1/submodules/qtshadertools-everywhere-src-6.7.1.tar.xz"
+
+            ["6.7.1+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.7.1"
         [["6.7.1+0".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -239,6 +284,11 @@ registered = 2024-05-26T21:32:58.000Z
         hash = "e585e3a985b2e2bad8191a84489a04e69c3defc6022a8e746aad22a1f17910c2"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.7/6.7.1/submodules/qtshadertools-everywhere-src-6.7.1.tar.xz"
+
+            ["6.7.1+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.7.1"
         [["6.7.1+1".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -264,6 +314,11 @@ registered = 2025-02-06T15:25:08.000Z
         hash = "d1d5f90e8885fc70d63ac55a4ce4d9a2688562033a000bc4aff9320f5f551871"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.8/6.8.2/submodules/qtshadertools-everywhere-src-6.8.2.tar.xz"
+
+            ["6.8.2+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.8.2"
         [["6.8.2+0".artifact_metadata.sources]]
         hash = "ba6b430aed72c63a3768531f6a3ffc2b0fde2c57a3b251450dcf489a894f0894"
         type = "archive"
@@ -289,6 +344,11 @@ registered = 2025-02-06T21:13:12.000Z
         hash = "d1d5f90e8885fc70d63ac55a4ce4d9a2688562033a000bc4aff9320f5f551871"
         type = "archive"
         url = "https://download.qt.io/official_releases/qt/6.8/6.8.2/submodules/qtshadertools-everywhere-src-6.8.2.tar.xz"
+
+            ["6.8.2+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/qtshadertools"
+            provenance = "url-pattern"
+            version = "6.8.2"
         [["6.8.2+1".artifact_metadata.sources]]
         hash = "3f66bce069ee8bed7439a1a13da7cb91a5e67ea6170f21317ac7f5794625ee10"
         type = "archive"

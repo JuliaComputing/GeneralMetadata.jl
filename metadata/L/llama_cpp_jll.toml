@@ -384,6 +384,11 @@ registered = 2026-01-24T13:53:42.000Z
         hash = "51fa458a92d6a3f305f8fd76fc8f702e3e87ddb5"
         type = "git"
         url = "https://github.com/ggml-org/llama.cpp.git"
+
+            ["0.0.19+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/llama.cpp"
+            provenance = "git-tag"
+            version = "b7813"
         [["0.0.19+0".artifact_metadata.sources]]
         hash = "2408d07df7f324d3beea818585a6d990ba99587c218a3969f924dfcc4de93b62"
         type = "file"
@@ -405,6 +410,11 @@ registered = 2026-01-24T14:16:18.000Z
         hash = "81ab64f3c858c0db8c7c3a6bccd4cbbe624f52a3"
         type = "git"
         url = "https://github.com/ggml-org/llama.cpp.git"
+
+            ["0.0.20+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/llama.cpp"
+            provenance = "git-tag"
+            version = "b7821"
         [["0.0.20+0".artifact_metadata.sources]]
         hash = "2408d07df7f324d3beea818585a6d990ba99587c218a3969f924dfcc4de93b62"
         type = "file"

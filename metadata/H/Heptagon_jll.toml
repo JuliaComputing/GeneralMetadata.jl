@@ -86,6 +86,11 @@ registered = 2025-07-07T13:48:29.000Z
         hash = "fb6815e5d745f07fd567c11671149de6ef2e74c8"
         type = "git"
         url = "https://github.com/ocaml/stdlib-shims"
+
+            ["1.5.0+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/ocaml:stdlib-shims"
+            provenance = "git-tag"
+            version = "0.3.0"
         [["1.5.0+1".artifact_metadata.sources]]
         hash = "710007690fb2286f9f2ce10e19fa47a67b634670"
         type = "git"
@@ -118,6 +123,11 @@ registered = 2025-11-10T15:34:23.000Z
         hash = "fb6815e5d745f07fd567c11671149de6ef2e74c8"
         type = "git"
         url = "https://github.com/ocaml/stdlib-shims"
+
+            ["1.5.1+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/ocaml:stdlib-shims"
+            provenance = "git-tag"
+            version = "0.3.0"
         [["1.5.1+0".artifact_metadata.sources]]
         hash = "710007690fb2286f9f2ce10e19fa47a67b634670"
         type = "git"
@@ -150,6 +160,11 @@ registered = 2025-11-11T11:37:02.000Z
         hash = "fb6815e5d745f07fd567c11671149de6ef2e74c8"
         type = "git"
         url = "https://github.com/ocaml/stdlib-shims"
+
+            ["1.5.2+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/ocaml:stdlib-shims"
+            provenance = "git-tag"
+            version = "0.3.0"
         [["1.5.2+0".artifact_metadata.sources]]
         hash = "710007690fb2286f9f2ce10e19fa47a67b634670"
         type = "git"
@@ -182,6 +197,11 @@ registered = 2025-11-20T14:28:10.000Z
         hash = "fb6815e5d745f07fd567c11671149de6ef2e74c8"
         type = "git"
         url = "https://github.com/ocaml/stdlib-shims"
+
+            ["1.5.3+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/ocaml:stdlib-shims"
+            provenance = "git-tag"
+            version = "0.3.0"
         [["1.5.3+0".artifact_metadata.sources]]
         hash = "710007690fb2286f9f2ce10e19fa47a67b634670"
         type = "git"
@@ -214,6 +234,11 @@ registered = 2025-11-24T14:22:45.000Z
         hash = "fb6815e5d745f07fd567c11671149de6ef2e74c8"
         type = "git"
         url = "https://github.com/ocaml/stdlib-shims"
+
+            ["1.5.4+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/ocaml:stdlib-shims"
+            provenance = "git-tag"
+            version = "0.3.0"
         [["1.5.4+0".artifact_metadata.sources]]
         hash = "710007690fb2286f9f2ce10e19fa47a67b634670"
         type = "git"

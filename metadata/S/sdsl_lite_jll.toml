@@ -34,3 +34,8 @@ registered = 2023-08-22T20:05:40.000Z
         hash = "d54d38908a14745eb93fd5304fc9b2b9c2542ee9"
         type = "git"
         url = "https://github.com/xxsds/sdsl-lite.git"
+
+            ["3.0.3+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/sdsl-lite"
+            provenance = "git-tag"
+            version = "3.0.3"

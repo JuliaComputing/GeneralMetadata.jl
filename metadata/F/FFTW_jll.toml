@@ -14,6 +14,11 @@ registered = 2019-09-05T00:12:34.000Z
         hash = "3db033dbc8a703ed644e6973d82bf0497a15a77dc071a4391cfb844b119e7b4c"
         url = "http://fftw.org/~stevenj/fftw-3.3.9-alpha1.tar.gz"
 
+            ["3.3.9+0".artifact_metadata.sources.upstream]
+            project = "repology.org/project/fftw"
+            provenance = "url-pattern"
+            version = "3.3.9-alpha1"
+
 ["3.3.9+1"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.arm-linux-gnueabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.arm-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.i686-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.i686-w64-mingw32.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-apple-darwin14.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-unknown-freebsd11.1.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"]
 registered = 2019-09-05T22:46:23.000Z
@@ -29,6 +34,11 @@ registered = 2019-09-05T22:46:23.000Z
         [["3.3.9+1".artifact_metadata.sources]]
         hash = "3db033dbc8a703ed644e6973d82bf0497a15a77dc071a4391cfb844b119e7b4c"
         url = "http://fftw.org/~stevenj/fftw-3.3.9-alpha1.tar.gz"
+
+            ["3.3.9+1".artifact_metadata.sources.upstream]
+            project = "repology.org/project/fftw"
+            provenance = "url-pattern"
+            version = "3.3.9-alpha1"
 
 ["3.3.9+2"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.arm-linux-gnueabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.arm-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.i686-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.i686-w64-mingw32.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.x86_64-apple-darwin14.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.x86_64-unknown-freebsd11.1.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+2/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"]
@@ -46,6 +56,11 @@ registered = 2019-09-18T03:28:45.000Z
         hash = "33554751aae030b8adac2ae29384f5f4a103e02d71955aa45d613b3695eff042"
         url = "http://fftw.org/~stevenj/fftw-3.3.9.tar.gz"
 
+            ["3.3.9+2".artifact_metadata.sources.upstream]
+            project = "repology.org/project/fftw"
+            provenance = "url-pattern"
+            version = "3.3.9"
+
 ["3.3.9+3"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.arm-linux-gnueabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.arm-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.i686-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.i686-w64-mingw32.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.x86_64-apple-darwin14.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.x86_64-unknown-freebsd11.1.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+3/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"]
 registered = 2019-10-03T19:29:11.000Z
@@ -61,6 +76,11 @@ registered = 2019-10-03T19:29:11.000Z
         [["3.3.9+3".artifact_metadata.sources]]
         hash = "33554751aae030b8adac2ae29384f5f4a103e02d71955aa45d613b3695eff042"
         url = "http://fftw.org/~stevenj/fftw-3.3.9.tar.gz"
+
+            ["3.3.9+3".artifact_metadata.sources.upstream]
+            project = "repology.org/project/fftw"
+            provenance = "url-pattern"
+            version = "3.3.9"
 
 ["3.3.9+4"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.armv7l-linux-gnueabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.i686-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.i686-w64-mingw32.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.x86_64-apple-darwin14.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.x86_64-unknown-freebsd11.1.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+4/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"]
@@ -79,6 +99,11 @@ registered = 2020-02-21T01:58:44.000Z
         type = "archive"
         url = "http://fftw.org/~stevenj/fftw-3.3.9.tar.gz"
 
+            ["3.3.9+4".artifact_metadata.sources.upstream]
+            project = "repology.org/project/fftw"
+            provenance = "url-pattern"
+            version = "3.3.9"
+
 ["3.3.9+5"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.armv7l-linux-gnueabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.i686-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.i686-w64-mingw32.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-apple-darwin14.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-unknown-freebsd11.1.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"]
 registered = 2020-03-29T03:09:27.000Z
@@ -96,6 +121,11 @@ registered = 2020-03-29T03:09:27.000Z
         type = "archive"
         url = "http://fftw.org/~stevenj/fftw-3.3.9.tar.gz"
 
+            ["3.3.9+5".artifact_metadata.sources.upstream]
+            project = "repology.org/project/fftw"
+            provenance = "url-pattern"
+            version = "3.3.9"
+
 ["3.3.9+6"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.armv7l-linux-gnueabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.i686-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.i686-w64-mingw32.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-apple-darwin14.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-unknown-freebsd11.1.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+5/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"]
 registered = 2020-10-17T02:31:35.000Z
@@ -112,6 +142,11 @@ registered = 2020-10-17T02:31:35.000Z
         hash = "33554751aae030b8adac2ae29384f5f4a103e02d71955aa45d613b3695eff042"
         type = "archive"
         url = "http://fftw.org/~stevenj/fftw-3.3.9.tar.gz"
+
+            ["3.3.9+6".artifact_metadata.sources.upstream]
+            project = "repology.org/project/fftw"
+            provenance = "url-pattern"
+            version = "3.3.9"
 
 ["3.3.9+7"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.armv7l-linux-gnueabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.i686-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.i686-w64-mingw32.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.x86_64-apple-darwin.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.x86_64-unknown-freebsd.tar.gz", "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+7/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"]
