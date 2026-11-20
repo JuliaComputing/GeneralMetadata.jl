@@ -1376,8 +1376,8 @@ registered = 2026-10-22T13:15:38.000Z
         url = "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.zip"
 
             ["2.9.8+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/deno-bin"
-            provenance = "repology-url"
+            project = "repology.org/project/deno"
+            provenance = "url-pattern"
             version = "2.9.8"
         [["2.9.8+0".artifact_metadata.sources]]
         hash = "d49596c20b9788cf8f5d8ddf644103d4bde56ed239753f0bdb92ba9361d51905"
