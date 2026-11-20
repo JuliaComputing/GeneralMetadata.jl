@@ -82,7 +82,7 @@ registered = 2026-05-22T12:51:50.000Z
         url = "https://git.openldap.org/openldap/openldap.git"
 
             ["0.9.35+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/lmdb"
+            project = "repology.org/project/openldap"
             provenance = "git-tag"
             version = "0.9.35"
 
@@ -104,7 +104,7 @@ registered = 2026-07-08T14:23:31.000Z
         url = "https://git.openldap.org/openldap/openldap.git"
 
             ["1.0.0+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/lmdb"
+            project = "repology.org/project/openldap"
             provenance = "git-tag"
             version = "1.0.0"
         [["1.0.0+0".artifact_metadata.sources]]
@@ -129,7 +129,7 @@ registered = 2026-10-20T17:10:47.000Z
         url = "https://git.openldap.org/openldap/openldap.git"
 
             ["1.0.2+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/lmdb"
+            project = "repology.org/project/openldap"
             provenance = "git-tag"
             version = "1.0.2"
         [["1.0.2+0".artifact_metadata.sources]]
@@ -154,7 +154,7 @@ registered = 2026-10-22T13:15:21.000Z
         url = "https://git.openldap.org/openldap/openldap.git"
 
             ["1.0.3+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/lmdb"
+            project = "repology.org/project/openldap"
             provenance = "git-tag"
             version = "1.0.3"
         [["1.0.3+0".artifact_metadata.sources]]

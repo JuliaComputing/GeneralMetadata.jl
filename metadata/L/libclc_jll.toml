@@ -25,8 +25,8 @@ registered = 2025-06-20T20:23:28.000Z
         url = "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.2/clang-20.1.2.src.tar.xz"
 
             ["20.1.2+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/python:clang"
-            provenance = "heuristic"
+            project = "repology.org/project/llvm"
+            provenance = "url-pattern"
             version = "20.1.2"
         [["20.1.2+0".artifact_metadata.sources]]
         hash = "8a48d5ff59a078b7a94395b34f7d5a769f435a3211886e2c8bf83aa2981631bc"
@@ -42,8 +42,8 @@ registered = 2025-06-20T20:23:28.000Z
         url = "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.2/libclc-20.1.2.src.tar.xz"
 
             ["20.1.2+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/libclc"
-            provenance = "heuristic"
+            project = "repology.org/project/llvm"
+            provenance = "url-pattern"
             version = "20.1.2"
         [["20.1.2+0".artifact_metadata.sources]]
         type = "directory"

@@ -33,6 +33,6 @@ registered = 2022-04-21T22:16:52.000Z
         url = "https://download.qt.io/official_releases/qt/5.15/5.15.3/submodules/qtquickcontrols2-everywhere-opensource-src-5.15.3.tar.xz"
 
             ["5.15.3+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/qt5quickcontrols2"
-            provenance = "heuristic"
+            project = "repology.org/project/qt"
+            provenance = "url-pattern"
             version = "5.15.3"

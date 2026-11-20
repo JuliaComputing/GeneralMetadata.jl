@@ -24,8 +24,8 @@ registered = 2024-02-23T08:16:48.000Z
         url = "https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v10.0.0.tar.bz2"
 
             ["6.5.2+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/mingw-w64-headers"
-            provenance = "heuristic"
+            project = "repology.org/project/mingw-w64"
+            provenance = "url-pattern"
             version = "10.0.0"
         [["6.5.2+0".artifact_metadata.sources]]
         package = "LLVM_full_jll"
@@ -60,8 +60,8 @@ registered = 2024-06-04T21:57:03.000Z
         url = "https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v10.0.0.tar.bz2"
 
             ["6.7.1+0".artifact_metadata.sources.upstream]
-            project = "repology.org/project/mingw-w64-headers"
-            provenance = "heuristic"
+            project = "repology.org/project/mingw-w64"
+            provenance = "url-pattern"
             version = "10.0.0"
         [["6.7.1+0".artifact_metadata.sources]]
         package = "LLVM_full_jll"
