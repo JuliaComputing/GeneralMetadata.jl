@@ -70,7 +70,7 @@ end
                     @test all(x->isa(x, String), ainfo["artifact_urls"])
                     @test all(in(verinfo["artifact_urls"]), ainfo["artifact_urls"])
 
-                    if get(ainfo, "metadata_type", "") != "JLLGenerator JLL.toml"
+                    if !(get(ainfo, "metadata_type", "") in ("JLLGenerator JLL.toml", "manual"))
                         @test haskey(ainfo, "buildscript")
                         @test ainfo["buildscript"] isa String
                     end
@@ -78,8 +78,12 @@ end
                     @test ainfo["metadata_source"] isa String
                     @test haskey(ainfo, "metadata_type")
                     @test ainfo["metadata_type"] isa String
-                    @test haskey(ainfo, "metadata_version")
-                    @test ainfo["metadata_version"] isa String
+                    if ainfo["metadata_type"] == "manual"
+                        @test !isempty(ainfo["sources"])
+                    else
+                        @test haskey(ainfo, "metadata_version")
+                        @test ainfo["metadata_version"] isa String
+                    end
                     @test haskey(ainfo, "metadata")
                     @test ainfo["metadata"] isa String
                     if !contains(ainfo["metadata"], "://")

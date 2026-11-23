@@ -26,21 +26,20 @@ registered = 2022-02-05T20:04:06.000Z
 
     [["1.2.2+0".artifact_metadata]]
     artifact_urls = ["https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+0/Musl.v1.2.2.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+0/Musl.v1.2.2.armv6l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+0/Musl.v1.2.2.armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+0/Musl.v1.2.2.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+0/Musl.v1.2.2.x86_64-linux-musl.tar.gz"]
-    buildscript = "https://github.com/JuliaPackaging/Yggdrasil/tree/80ff950acc9edd2af8ee8063b6c54b670a801de6/M/Musl/build_tarballs.jl"
-    metadata = "reconstructed_artifact_metadata/Yggdrasil/m/musl/build_tarballs.jl/80ff950acc9edd2af8ee8063b6c54b670a801de6.toml"
-    metadata_source = "retrospective (by README link)"
-    metadata_type = "BinaryBuilder --meta-json"
-    metadata_version = "0.2.5"
+    buildscript = "https://github.com/JuliaPackaging/Yggdrasil/tree/e23a8ea4f57f10b4c060a0a69f638e96d27cae65/M/Musl/build_tarballs.jl"
+    metadata = "https://pkg.julialang.org/package/3490aa6f-05e0-5d3a-9648-5b0c647c155f/dc9ade6fd9bc4643985684a3a05036452c8f431f"
+    metadata_source = "General-registered package README"
+    metadata_type = "manual"
 
         [["1.2.2+0".artifact_metadata.sources]]
-        hash = "1370c9a812b2cf2a7d92802510cca0058cc37e66a7bedd70051f0a34015022a3"
+        hash = "9b969322012d796dc23dda27a35866034fa67d8fb67e0e2c45c913c3d43219dd"
         type = "archive"
-        url = "https://www.musl-libc.org/releases/musl-1.1.24.tar.gz"
+        url = "https://www.musl-libc.org/releases/musl-1.2.2.tar.gz"
 
             ["1.2.2+0".artifact_metadata.sources.upstream]
             project = "repology.org/project/musl"
-            provenance = "repology-url"
-            version = "1.1.24"
+            provenance = "manual"
+            version = "1.2.2"
 
 ["1.2.2+1"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+1/Musl.v1.2.2.aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+1/Musl.v1.2.2.armv6l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+1/Musl.v1.2.2.armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+1/Musl.v1.2.2.i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.2+1/Musl.v1.2.2.x86_64-linux-musl.tar.gz"]
@@ -174,6 +173,11 @@ registered = 2026-11-04T15:07:05.000Z
         type = "archive"
         url = "https://sources.buildroot.net/musl/musl-1.2.6.tar.gz"
 
+            ["1.2.6".artifact_metadata.sources.upstream]
+            project = "repology.org/project/musl"
+            provenance = "manual"
+            version = "1.2.6"
+
 ["1.2.7"]
 artifact_urls = ["https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-Musl-v1.2.7-aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-Musl-v1.2.7-armv6l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-Musl-v1.2.7-armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-Musl-v1.2.7-i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-Musl-v1.2.7-x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-build_log-v1.2.7-aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-build_log-v1.2.7-armv6l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-build_log-v1.2.7-armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-build_log-v1.2.7-i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-build_log-v1.2.7-x86_64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-extract_log-v1.2.7-aarch64-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-extract_log-v1.2.7-armv6l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-extract_log-v1.2.7-armv7l-linux-musleabihf.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-extract_log-v1.2.7-i686-linux-musl.tar.gz", "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.2.7/Musl-extract_log-v1.2.7-x86_64-linux-musl.tar.gz"]
 registered = 2026-11-07T13:17:54.000Z
@@ -189,3 +193,8 @@ registered = 2026-11-07T13:17:54.000Z
         treehash = "672a3f992593612d91ebb3a0ad6c2d3178223239"
         type = "archive"
         url = "https://sources.buildroot.net/musl/musl-1.2.6.tar.gz"
+
+            ["1.2.7".artifact_metadata.sources.upstream]
+            project = "repology.org/project/musl"
+            provenance = "manual"
+            version = "1.2.6"
